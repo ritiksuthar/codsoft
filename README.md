@@ -38,7 +38,7 @@ Feel free to fork the repo, raise issues, or contribute improvements! 😊
 ### 🔗 Connect with me:
 💼 [LinkedIn](https://www.linkedin.com/in/ritik-suthar-26468518b/)
 🐙 [GitHub](https://github.com/ritiksuthar)  
-📧 Email: theritiksuthar  
+📧 Email: theritiksuthar@gmail.com 
 
 Happy Coding! 🎉
 
